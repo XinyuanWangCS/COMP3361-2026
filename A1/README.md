@@ -7,15 +7,11 @@ This assignment will guide you through the implementation of n-gram language mod
 
 ## Contents
 - [A1.pdf](A1.pdf): Assignment Handbook
-- [A1.ipynb](A1.ipynb): Jupyter Notebook template. \([Google Colab version](https://colab.research.google.com/drive/1t9Ew-z7wRu7MYzmf4bLHvxsJ9m13ey81?usp=sharing)\)
+- [A1.ipynb](A1.ipynb): Jupyter Notebook template. \([Google Colab version](https://colab.research.google.com/drive/1kIldEGfbAmJ-pARCtrF9V8p3bfFwjpbB?usp=sharing)\)
 - [data](data):
     - [Data files for Section 1 n-gram lm](data/lm)
     - [Data files for Section 2 preposition prediction](data/prep)
 
-## Important Dates:
-- Assignment release: September 26, 2023
-- Test file release: October 17, 2023
-- Submission deadline: October 23, 2023, 06:00am (Late submissions will not be graded.)
 
 ## Submission
 You should submit the **UniversityNumber.ipynb** file and final prediction file  **UniversityNumber.test.out** of Section 2 to moodle. 
